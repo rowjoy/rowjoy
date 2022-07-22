@@ -16,6 +16,8 @@ NEC MONEY TRANSFER LIMITED ] [https://necmoney.com/]
 [![pinterest](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/pinterest.png (Pinterest))][6]
 [![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
 
+
+
 <!-- To Link your profile to the media buttons -->
 
 [1]: https://www.facebook.com/rowjoy202/
@@ -30,6 +32,18 @@ NEC MONEY TRANSFER LIMITED ] [https://necmoney.com/]
 rowjoy/rowjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+```css
+{
+"Language"      : ['Dart']
+"UI"            : ['Flutter']
+"Backend"       : ['FireBase','RestAPI']
+"Database"      : ['FireStore', 'Hive', 'Sqlite',]
+"Tools"         : ['Git', 'VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
+}
+```
+
+
 
 [![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://play.google.com/store/games)
 [![ui_project](https://user-images.githubusercontent.com/69602585/180413866-e2e6e161-b585-4402-9566-f1a4309bbde6.png)](https://github.com/rowjoy/UI-project)
