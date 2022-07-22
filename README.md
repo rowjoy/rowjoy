@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 }
 ```
 
-![nec_money](https://user-images.githubusercontent.com/69602585/180448734-3a5bc7ba-a5e1-4996-af87-1bd2c7097faa.png)
+
 
 
 [![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://play.google.com/store/games)
