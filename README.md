@@ -35,11 +35,12 @@ You can click the Preview link to take a look at your changes.
 
 ```css
 {
-"Language"      : ['Dart']
-"UI"            : ['Flutter']
-"Backend"       : ['FireBase','RestAPI']
-"Database"      : ['FireStore', 'Hive', 'Sqlite',]
-"Tools"         : ['Git', 'VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
+"Language"        : ['Dart']
+"UI"              : ['Flutter']
+"Backend"         : ['FireBase','RestAPI']
+"state management": [GetX ,Provider,BLoC]
+"Database"        : ['FireStore', 'Hive', 'Sqlite',]
+"Tools"           : ['Git', 'VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
 }
 ```
 
