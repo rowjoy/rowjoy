@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 "Backend"         : ['FireBase','RestAPI']
 "state management": ['GetX','Provider','BLoC']
 "Database"        : ['FireStore', 'Hive', 'Sqlite',]
-"Tools"           : ['Git', 'VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
+"Tools"           : ['Git','Postman','VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
 }
 ```
 
