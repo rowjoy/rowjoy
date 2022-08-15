@@ -44,6 +44,15 @@ You can click the Preview link to take a look at your changes.
 ```
 
 
+```css
+{
+"Language"        : ['Dart'],
+"problem solving" : ["Codewars"],
+"Profile"         : ["https://www.codewars.com/users/Jamirul%20islam"],
+}
+```
+
+
 [![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://github.com/rowjoy/quiz_app) 
 [![nec_money](https://user-images.githubusercontent.com/69602585/180448734-3a5bc7ba-a5e1-4996-af87-1bd2c7097faa.png)](https://play.google.com/store/apps/details?id=com.nec.money) 
 [![ui_project](https://user-images.githubusercontent.com/69602585/180413866-e2e6e161-b585-4402-9566-f1a4309bbde6.png)](https://github.com/rowjoy/UI-project)
