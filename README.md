@@ -37,21 +37,16 @@ You can click the Preview link to take a look at your changes.
 {
 "Language"        : ['Dart']
 "UI"              : ['Flutter']
+"Platform"        : ['Ios','Android']
 "Backend"         : ['FireBase','RestAPI']
 "state management": ['GetX','Provider','BLoC']
 "Database"        : ['FireStore', 'Hive', 'Sqlite',]
-"Tools"           : ['Git','Postman','VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
+"Tools"           : ['Xcode','Git','Postman','VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
+"Problem solving" : ['Codewars'],
+"Profile"         : ['https://www.codewars.com/users/Jamirul%20islam'],
 }
 ```
 
-
-```css
-{
-"Language"        : ['Dart'],
-"problem solving" : ["Codewars"],
-"Profile"         : ["https://www.codewars.com/users/Jamirul%20islam"],
-}
-```
 
 
 [![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://play.google.com/store/apps/details?id=com.interview.quiz_app) 
