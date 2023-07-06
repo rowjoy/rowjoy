@@ -63,3 +63,7 @@ You can click the Preview link to take a look at your changes.
 [![ui_project](https://user-images.githubusercontent.com/69602585/180413866-e2e6e161-b585-4402-9566-f1a4309bbde6.png)](https://github.com/rowjoy/UI-project)
 
 [![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://play.google.com/store/apps/details?id=com.interview.quiz_app) 
+[![BOCS Academy](https://github.com/rowjoy/rowjoy/assets/69602585/6fa27775-87db-4a7e-9612-55582200d36b)](https://play.google.com/store/apps/details?id=com.niharon.bocs) 
+
+
+
