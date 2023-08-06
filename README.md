@@ -55,6 +55,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rowjoy&layout=compact)
+
+
 
 
 
@@ -66,6 +69,10 @@ You can click the Preview link to take a look at your changes.
 [![ui_project](https://user-images.githubusercontent.com/69602585/180413866-e2e6e161-b585-4402-9566-f1a4309bbde6.png)](https://github.com/rowjoy/UI-project)
 
 [![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://play.google.com/store/apps/details?id=com.interview.quiz_app) 
+
+
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rowjoy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
