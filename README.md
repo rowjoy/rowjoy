@@ -19,10 +19,10 @@ NEC MONEY TRANSFER LIMITED ] [https://necmoney.com/]
 
 <!-- To Link your profile to the media buttons -->
 
-[1]: https://www.facebook.com/rowjoy202/
+[1]: https://www.facebook.com/rowjoy202
 [2]: https://www.instagram.com/username
 [3]: https://www.twitter.com/SafaWordpress
-[4]: https://www.linkedin.com/in/jamirul-islam-68454a1a2/
+[4]: https://www.linkedin.com/in/jamirulislam202
 [5]: https://www.github.com/rowjoy
 [6]: https://in.pinterest.com/username
 [7]: https://username.tumblr.com
@@ -39,7 +39,7 @@ You can click the Preview link to take a look at your changes.
 ```css
 {
 "Language"        : ['Dart']
-"UI"              : ['Flutter',]
+"UI"              : ['Flutter']
 "Platform"        : ['Ios','Android']
 "Backend"         : ['FireBase','RestAPI']
 "state management": ['GetX','Provider','BLoC']
@@ -47,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 "Tools"           : ['Xcode','Git','Postman','VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
 "Problem solving" : ['Codewars'],
 "Profile"         : ['https://www.codewars.com/users/Jamirul%20islam'],
+"Linkdin"         : ['https://www.linkedin.com/in/jamirulislam202']
 }
 ```
 
