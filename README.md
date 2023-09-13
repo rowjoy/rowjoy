@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
 
 ```css
 {
-"Language"        : ['Dart']
-"UI"              : ['Flutter']
+"Language"        : ['Dart',kotlin]
+"UI"              : ['Flutter',Android]
 "Platform"        : ['Ios','Android']
 "Backend"         : ['FireBase','RestAPI']
 "state management": ['GetX','Provider','BLoC']
