@@ -40,12 +40,12 @@ You can click the Preview link to take a look at your changes.
 
 ```css
 {
-"Language"        : ['Dart','kotlin']
-"UI"              : ['Flutter','Android']
+"Language"        : ['Dart','Swift']
+"UI"              : ['Flutter','SwiftUI']
 "Platform"        : ['Ios','Android']
 "Backend"         : ['FireBase','RestAPI']
 "state management": ['GetX','Provider','BLoC']
-"Database"        : ['FireStore', 'Hive', 'Sqlite',]
+"Database"        : ['FireStore', 'Hive', 'Sqlite', 'SwiftData' 'CoreData']
 "Tools"           : ['Xcode','Git','Postman','VS code', 'Slack', 'Trello', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
 "Problem solving" : ['Codewars'],
 "Profile"         : ['https://www.codewars.com/users/Jamirul%20islam'],
