@@ -7,33 +7,16 @@
 - 📫 I currently start new job[ Junior Software Engineer
 NEC MONEY TRANSFER LIMITED ] [https://necmoney.com/]
 
-  
-<!-- display the social media buttons in your README -->
-[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
-[![tumblr](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/tumblr.png (Tumblr))][7]
 
-
-<!-- To Link your profile to the media buttons -->
-
-[1]: https://www.facebook.com/rowjoy202
-[2]: https://www.instagram.com/username
-[3]: https://www.twitter.com/SafaWordpress
-[4]: https://www.linkedin.com/in/jamirulislam202
-[5]: https://www.github.com/rowjoy
-[6]: https://in.pinterest.com/username
-[7]: https://username.tumblr.com
 
 
 
 ## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamirulislam202)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rowjoy202)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/rowjoy)
+
 
 
 
