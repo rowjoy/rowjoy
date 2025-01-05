@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
 ```css
 {
 "Language"        : ['Dart','Kotlin','Swift']
-"UI"              : ['Flutter','Jetpack compose',SwiftUI']
+"UI"              : ['Flutter','Jetpack compose','SwiftUI']
 "Platform"        : ['Ios','Android']
 "Backend"         : ['FireBase','RestAPI']
 "state management": ['GetX','Provider','BLoC']
-"Database"        : ['FireStore', 'Hive', 'Sqlite', 'SwiftData' 'CoreData','Room']
+"Database"        : ['FireStore', 'Hive', 'Sqlite', 'SwiftData' ,'CoreData','Room']
 "Tools"           : ['Xcode','Git','Postman','VS code', 'Slack', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
 "Problem solving" : ['Codewars'],
 "Profile"         : ['https://www.codewars.com/users/Jamirul%20islam'],
