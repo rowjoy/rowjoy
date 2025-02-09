@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 "state management": ['GetX','Provider','BLoC']
 "Database"        : ['FireStore', 'Hive', 'Sqlite', 'SwiftData' ,'CoreData','Room']
 "Tools"           : ['Xcode','Git','Postman','VS code', 'Slack', 'Android Studio', 'Adobe XD', 'Figma', 'Dart Dev Tool']
-"Problem solving" : ['Codewars'],
+"Problem solving" : ['https://www.codewars.com/users/Jamirul%20islam'],
 "Profile"         : ['https://www.codewars.com/users/Jamirul%20islam'],
 "Linkdin"         : ['https://www.linkedin.com/in/jamirulislam202'],
 "Medium"          : ['https://medium.com/@swe.jamirulinfo']
