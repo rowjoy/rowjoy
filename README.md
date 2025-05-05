@@ -42,26 +42,38 @@ You can click the Preview link to take a look at your changes.
 }
 ```
 
-| Stack Overflow  |
-| ------------- |
-| <a href="https://stackexchange.com/users/19765769/jamirul-islam"><img src="https://stackexchange.com/users/flair/19765769.png" width="208" height="58" alt="profile for Jamirul islam on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jamirul islam on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-[![Codewars](https://www.codewars.com/users/Jamirul%20islam/badges/large)](https://www.codewars.com/users/Jamirul%20islam) 
-
+| Stack Overflow | Codewars |
+| -------- | -------- |
+|  <a href="https://stackexchange.com/users/19765769/jamirul-islam"><img src="https://stackexchange.com/users/flair/19765769.png" width="208" height="58" alt="profile for Jamirul islam on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Jamirul islam on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>   | [![Codewars](https://www.codewars.com/users/Jamirul%20islam/badges/large)](https://www.codewars.com/users/Jamirul%20islam)   |
 
 
 
 
 
 
-[![nec_money](https://user-images.githubusercontent.com/69602585/180448734-3a5bc7ba-a5e1-4996-af87-1bd2c7097faa.png)](https://apps.apple.com/us/app/nec-money/id1476959641) 
 
-[![BOCS Academy](https://github.com/rowjoy/rowjoy/assets/69602585/b3924983-d40c-4c47-9ed3-300f56fdba47)](https://play.google.com/store/apps/details?id=com.niharon.bocs)
-[![BOCS Academy app url - Check ]()](https://play.google.com/store/apps/details?id=com.niharon.bocs)
+| Nec money| BOCS Academy |
+| -------- | -------- |
+| [![nec_money](https://user-images.githubusercontent.com/69602585/180448734-3a5bc7ba-a5e1-4996-af87-1bd2c7097faa.png)](https://apps.apple.com/us/app/nec-money/id1476959641)    | [![BOCS Academy](https://github.com/rowjoy/rowjoy/assets/69602585/b3924983-d40c-4c47-9ed3-300f56fdba47)](https://play.google.com/store/apps/details?id=com.niharon.bocs)   |
 
-[![ui_project](https://user-images.githubusercontent.com/69602585/180413866-e2e6e161-b585-4402-9566-f1a4309bbde6.png)](https://github.com/rowjoy/UI-project)
 
-[![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://play.google.com/store/apps/details?id=com.interview.quiz_app) 
+| UI Project | Quiz app |
+| -------- | -------- |
+| [![ui_project](https://user-images.githubusercontent.com/69602585/180413866-e2e6e161-b585-4402-9566-f1a4309bbde6.png)](https://github.com/rowjoy/UI-project)   | [![quiz_app](https://user-images.githubusercontent.com/69602585/180413021-65cb69e1-fe67-438b-a26d-61bb4bb5c908.jpg)](https://play.google.com/store/apps/details?id=com.interview.quiz_app)    |
+
+
+| NAFDAC Greenbook | Terra Whales  |
+| -------- | -------- |
+| [![NAFDAC App](https://github.com/user-attachments/assets/907fdd7a-be0b-4341-814a-dc1af762fea8)](https://play.google.com/store/apps/details?id=com.nafdac.gov)   | [![Trahile App](https://github.com/user-attachments/assets/695b8de0-3b77-42d8-91ca-f0c3b7bccb57)](https://apps.apple.com/gb/app/terra-whales/id6514327309)   |
+
+
+
+
+
+
+
+
 
 
 
